@@ -30,7 +30,7 @@ namespace OSCPhoto
         public const string UserCameraShowFocus = "/usercamera/ShowFocus"; //フォーカスオーバーレイを取得/切り替える
         public const string UserCameraStreaming = "/usercamera/Streaming"; //スパウトストリームの取得/切り替え
         public const string UserCameraRollWhileFlying = "/usercamera/RollWhileFlying"; //飛行中のロール動作を取得/切り替える
-        public const string UserCameraOrientationIsLandscape = / "usercamera/OrientationIsLandscape"; //方向を取得/切り替える
+        public const string UserCameraOrientationIsLandscape = "/usercamera/OrientationIsLandscape"; //方向を取得/切り替える
         //スライダー
         public const string UserCameraZoom = "/usercamera/Zoom"; //ズームスライダーを取得/設定する
         public const string UserCameraExposure = "/usercamera/Exposure"; //露出スライダーを取得/設定する
